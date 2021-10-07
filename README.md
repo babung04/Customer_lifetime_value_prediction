@@ -17,7 +17,7 @@ The dataset represents Customer lifetime value of an Auto Insurance Company in t
 Univariate, Bivariate and Multivariate Analysis were performed to bring out important aspects of data into focus for further analysis. Some of the highlights from EDA are listed below.
 
 ### Univariate Analysis
-![CLV](/Images/CLV.png "Customer Lifetime Value")
+![CLV](")
 - CLV is heavily right skewed in the data
 
 ![location](/Images/location.png "Location")
@@ -39,13 +39,13 @@ Univariate, Bivariate and Multivariate Analysis were performed to bring out impo
 ## Supervised Models Used
 | Model      | R^2 Score | RMSE |
 | ----------- | ----------- | ----------- |
-| Linear Regression      | 0.25       |0.5772|
-| Ridge Regression   | 0.21        |0.5925|
+| Linear Regression      | 0.25       |0.5734|
+| Ridge Regression   | 0.24        |0.5754|
 | Lasso Regression |  0.19    |0.5992|
-| DecisionTree Regression | 0.84 |  0.2668 |
-| RandomForest Regression | 0.90 | 0.2047 |
-| Adaboost Regression |0.89|0.2181 |
-| RandomForest with GridSearchCV | 0.91 | 0.1956 |
+| DecisionTree Regression | 0.82 |  0.2738 |
+| RandomForest Regression | 0.91 | 0.1943 |
+| Adaboost Regression |0.89|0.2155 |
+| RandomForest with GridSearchCV | 0.91 | 0.1958 |
 
 
 ## Final Model
