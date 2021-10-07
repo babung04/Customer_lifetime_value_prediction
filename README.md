@@ -49,7 +49,7 @@ Univariate, Bivariate and Multivariate Analysis were performed to bring out impo
 
 
 ## Final Model
-By comparing RMSE and R^2 score results of models and then we choose the best model as the Random Forest with GridSearchCV, having the best evaluation scores.
+By comparing RMSE and R^2 score results of models and then we choose the best model as the Random Forest without GridSearchCV, having the best evaluation scores.
 
 ## Conclusion
 
